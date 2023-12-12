@@ -1,5 +1,5 @@
 # Route-Optimization
-Route Optimization project for Denver Public Schools to improve transportation system
+Route Optimization project for Denver Public Schools to improve transportation system.
 
 # Framework
-Details are provided in the Manual
+Details are provided in the Manual.
